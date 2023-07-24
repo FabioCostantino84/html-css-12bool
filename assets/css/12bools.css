@@ -1,7 +1,23 @@
+/* common */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+.container {
+    max-width: 1152px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -1rem;
+}
+
+.col {
+    flex-grow: 1;
+    max-width: 100%;
 }
 
 /* #region d-flex */
