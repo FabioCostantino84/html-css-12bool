@@ -146,23 +146,32 @@
 }
 
 /* margin */
-.m-1{
+.m-1 {
     margin: 0.5rem;
 }
-.m-2{
+
+.m-2 {
     margin: 1rem;
 }
-.m-3{
+
+.m-3 {
     margin: 1.5rem;
 }
-.m-4{
+
+.m-4 {
     margin: 2rem;
 }
-.m-5{
+
+.m-5 {
     margin: 2.5rem;
 }
-.m-6{
+
+.m-6 {
     margin: 3rem;
+}
+
+.mb-1 {
+    margin-bottom: 1rem;
 }
 
 /* gap */

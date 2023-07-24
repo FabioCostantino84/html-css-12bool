@@ -1,12 +1,12 @@
 [class^="col"] {
-    background-color:dodgerblue;
+    background-color: dodgerblue;
     border: 1px solid white;
     color: white;
     text-align: center;
 }
 
 [class^="col"].nasted {
-    background-color:limegreen ;
+    background-color: limegreen;
     border: 1px solid dodgerblue;
     color: white;
     text-align: center;
