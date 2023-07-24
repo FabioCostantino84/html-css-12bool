@@ -115,3 +115,32 @@
 }
 
 /* #endregion col */
+
+
+/* #region spacing */
+
+.p-1 {
+    padding: 0.5rem;
+}
+
+.p-2 {
+    padding: 1rem;
+}
+
+.p-3 {
+    padding: 1.5rem;
+}
+
+.p-4 {
+    padding: 2rem;
+}
+
+.p-5 {
+    padding: 2.5rem;
+}
+
+.p-6 {
+    padding: 3rem;
+}
+
+/* #endregion spacing */
