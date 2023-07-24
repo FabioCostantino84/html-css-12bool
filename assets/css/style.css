@@ -4,3 +4,10 @@
     color: white;
     text-align: center;
 }
+
+[class^="col"].nasted {
+    background-color:limegreen ;
+    border: 1px solid dodgerblue;
+    color: white;
+    text-align: center;
+}
