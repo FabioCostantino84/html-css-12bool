@@ -3,3 +3,46 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* #region d-flex */
+.d-flex {
+    display: flex;
+}
+
+.justify-start {
+    justify-content: start;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-end {
+    justify-content: end;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-around {
+    justify-content: space-around;
+}
+
+.align-items-start {
+    align-items: start;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.align-items-end {
+    align-items: end;
+}
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+/* #endregion d-flex */
