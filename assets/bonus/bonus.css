@@ -1,0 +1,12 @@
+.col {
+    max-width: 2rem;
+    aspect-ratio: 1;
+    border: 0.2px solid red;
+}
+
+.bg-dark{
+    background-color: black;
+}
+.bg-light{
+    background-color: white;
+}
